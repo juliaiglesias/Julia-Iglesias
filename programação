@@ -1,5 +1,17 @@
-Algoritmo:
-Inteligência Artificial:
-Nuvem:
-Servidor (computação):
-Dados:
+Um algoritmo é uma sequência definida de passos ou instruções que descrevem como resolver um problema ou realizar uma tarefa específica. Pode ser visto como um conjunto de regras ou diretrizes que orientam a execução de uma operação, e é amplamente utilizado em computação, matemática e outras áreas para sistematizar processos e alcançar resultados desejados.
+O que é algoritmo? - Tecnoblog
+
+
+A inteligência artificial (IA) é um ramo da ciência da computação que se dedica ao desenvolvimento de sistemas e máquinas capazes de realizar tarefas que normalmente exigem inteligência humana. Isso inclui a capacidade de aprender, raciocinar, resolver problemas, entender linguagem natural e reconhecer padrões. A IA pode ser classificada em diferentes tipos, como a IA fraca (ou estreita), que é projetada para realizar tarefas específicas, e a IA forte (ou geral), que visa emular a inteligência humana em um sentido mais amplo e geral.
+https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial
+
+Dados são unidades de informação coletadas, armazenadas e processadas para análise e tomada de decisões. Eles podem ser números, textos, imagens, sons ou qualquer outro tipo de representação que possa ser manipulado por sistemas computacionais. Dados são a base para gerar conhecimento e insights em diversas áreas, como ciência, negócios e tecnologia.
+https://pt.wikipedia.org/wiki/Dados
+
+
+A "nuvem" (ou "cloud" em inglês) refere-se a um modelo de computação em que recursos e serviços, como armazenamento, processamento e aplicativos, são fornecidos e acessados pela internet, em vez de estar localmente em um computador ou servidor específico. Isso permite que os usuários armazenem dados, usem aplicativos e acessem serviços de qualquer lugar com uma conexão à internet, oferecendo escalabilidade, flexibilidade e eficiência em custos.
+https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-the-cloud/
+
+Na computação, um servidor é um computador ou sistema que fornece serviços, recursos ou dados a outros computadores, conhecidos como clientes, em uma rede. Ele pode hospedar websites, gerenciar e-mails, armazenar arquivos ou executar aplicativos, facilitando a comunicação e o compartilhamento de recursos entre múltiplos usuários e dispositivos. Os servidores podem ser físicos, virtuais ou baseados em nuvem.
+https://www.controle.net/faq/o-que-sao-servidores
+
