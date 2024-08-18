@@ -15,3 +15,38 @@ https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-t
 Na computação, um servidor é um computador ou sistema que fornece serviços, recursos ou dados a outros computadores, conhecidos como clientes, em uma rede. Ele pode hospedar websites, gerenciar e-mails, armazenar arquivos ou executar aplicativos, facilitando a comunicação e o compartilhamento de recursos entre múltiplos usuários e dispositivos. Os servidores podem ser físicos, virtuais ou baseados em nuvem.
 https://www.controle.net/faq/o-que-sao-servidores
 
+
+Um banco de dados é uma coleção organizada de dados que pode ser acessada, gerenciada e atualizada de forma eficiente. Ele é estruturado para armazenar informações de maneira que facilite consultas, inserções, atualizações e exclusões. Os bancos de dados são utilizados em diversos contextos, como para armazenar dados de clientes, transações financeiras, registros médicos e muito mais.
+
+Existem vários tipos de bancos de dados, incluindo:
+1. Relacional: Organiza dados em tabelas que podem ser relacionadas entre si (ex.: MySQL, PostgreSQL).
+2. Não relacional (NoSQL): Utiliza modelos de dados flexíveis como documentos, grafos ou pares chave-valor (ex.: MongoDB, Redis).
+3. Hierárquico: Organiza dados em uma estrutura de árvore (ex.: IBM Information Management System - IMS).
+4. Objetos: Armazena dados na forma de objetos, como em programação orientada a objetos (ex.: db4o).
+
+Os bancos de dados são essenciais para aplicações modernas e são geridos por sistemas de gerenciamento de banco de dados (SGBDs).
+O que é um Banco de Dados? | Oracle Brasil
+
+
+Zero rating é uma prática em que provedores de serviços de internet (ISPs) ou operadoras de telecomunicações não cobram dados para o uso de certos aplicativos ou serviços. Isso significa que, mesmo que um usuário consuma muitos dados usando um serviço específico, esses dados não são descontados do seu plano de internet. 
+
+Essa prática pode beneficiar tanto os consumidores, que têm acesso gratuito a certos serviços, quanto os provedores, que podem promover seus próprios produtos ou serviços. No entanto, o zero rating também pode levantar preocupações sobre a neutralidade da rede e a concorrência, já que pode favorecer serviços específicos e prejudicar a competição justa entre diferentes plataformas e aplicativos.
+TechTudohttps://www.techtudo.com.br › o-q...O que é Zero Rating? Entenda polêmica que envolve Facebook e operadoras
+
+
+
+Jurimetria é a aplicação de métodos quantitativos e estatísticos ao estudo e à análise de fenômenos jurídicos. Ela envolve o uso de técnicas matemáticas para examinar e interpretar dados legais, como decisões judiciais, padrões de jurisprudência e estatísticas de processos. O objetivo da jurimetria é proporcionar uma compreensão mais objetiva e baseada em dados sobre o funcionamento do sistema jurídico, identificar tendências, prever decisões e otimizar a prática jurídica. É uma área interdisciplinar que combina direito com estatística e ciência de dados.
+ Turiviushttps://turivius.com › portal › jurim...Jurimetria: o que é e como usá-la
+
+Uma rede neural artificial é um modelo computacional inspirado no funcionamento do cérebro humano, utilizado para reconhecer padrões e tomar decisões com base em dados. Ela é composta por camadas de nós, chamados neurônios artificiais, que estão conectados entre si. Cada conexão tem um peso que ajusta a força da ligação entre neurônios.
+Essas redes são organizadas em três tipos principais de camadas:
+1. Camada de entrada: Recebe os dados iniciais.
+2. Camadas ocultas: Processam os dados através de suas conexões e funções de ativação.
+3. Camada de saída: Fornece o resultado final ou a previsão.
+As redes neurais artificiais são usadas em várias aplicações, como reconhecimento de imagem, processamento de linguagem natural e previsão de séries temporais. Elas aprendem ajustando os pesos das conexões com base em exemplos de treinamento, utilizando algoritmos como o retropropagação.
+Amazon Web Serviceshttps://aws.amazon.com › what-isO que é uma rede neural?
+
+
+
+Um sistema operacional (SO) é um conjunto de programas de software que gerencia o hardware de um computador e fornece serviços para outros programas. Ele atua como intermediário entre o usuário e o hardware, facilitando a execução de aplicativos e garantindo a gestão eficiente dos recursos do sistema, como a memória, o processador e os dispositivos de entrada/saída. Exemplos de sistemas operacionais incluem Windows, macOS, Linux e Android.
+Tecnobloghttps://tecnoblog.net › respondeO que é um sistema operacional?
