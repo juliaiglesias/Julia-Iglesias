@@ -1,0 +1,43 @@
+1. Python
+**Código mínimo (Hello World):**
+```python
+print("Hello, World!")
+Explicação:
+- Python é conhecido por sua simplicidade e legibilidade.
+- O código é interpretado, o que significa que não precisa ser compilado antes da execução.
+- A sintaxe é bastante direta, usando a função `print()` para exibir texto na tela.
+Execução:
+Para executar o código Python, você precisaria ter o Python instalado em seu sistema. Você pode executar o código em um terminal ou prompt de comando com o comando `python nome_do_arquivo.py`.
+
+2. JavaScript
+Código mínimo (Hello World):
+```javascript
+console.log("Hello, World!");
+```
+Explicação:
+- JavaScript é uma linguagem de script amplamente usada para desenvolvimento web.
+- O código é interpretado pelos navegadores ou por ambientes de execução como Node.js.
+- A sintaxe usa `console.log()` para exibir informações no console.
+Execução:
+Para executar o código JavaScript, você pode:
+1. Colocar o código em um arquivo com a extensão `.js` e executá-lo com Node.js, usando o comando `node nome_do_arquivo.js`.
+2. Inserir o código em um arquivo HTML e visualizá-lo em um navegador, com o JavaScript sendo executado no console do navegador.
+
+3. Java
+Código mínimo (Hello World):
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+Explicação:
+- Java é uma linguagem compilada e orientada a objetos.
+- O código precisa ser compilado em bytecode usando o `javac`, e então executado na Java Virtual Machine (JVM) com o `java`.
+- A sintaxe é mais verbosa, com a necessidade de definir uma classe pública e o método `main` como ponto de entrada.
+Execução:
+Para executar o código Java:
+1. Compile o arquivo com `javac HelloWorld.java`.
+2. Execute o bytecode com `java HelloWorld`.
+
